@@ -165,8 +165,8 @@ Example response from the API reference, abridged — real values depend on the 
   "features": {
     "ean": "3297760097143",
     "contact": {
-      "exploitant": "CHARLES & ALICE ROUTE DE LIVRON 26400 ALLEX",
-      "service_consommateur": "CHARLES & ALICE ROUTE DE LIVRON 26400 ALLEX"
+      "exploitant": "example",
+      "service_consommateur": "example"
     },
     "reference": "546212",
     "description": "Des recettes sans sucres ajoutés, sans édulcorants et sans conservateur, qui laissent s'exprimer la gourmandise naturelle des fruits.",
